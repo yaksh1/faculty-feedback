@@ -1,0 +1,49 @@
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* semi-transparent background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000; /* Ensures modal is above other content */
+}
+
+.modal-content {
+  background: white;
+  padding: 20px 20px 20px 20px; /* Increased padding for spacing */
+  border-radius: 8px;
+  text-align: center;
+  display: flex; /* Use Flexbox */
+  flex-direction: column; /* Stack items vertically */
+  justify-content: center; /* Center items vertically */
+  align-items: center; /* Center items horizontally */
+}
+
+.my-lottie-player-container{
+  width:250px;
+}
+
+.modal-content h4 {
+  margin-bottom: 20px;
+  padding: 0 10px; 
+}
+
+.modal-content button {
+  background-color: #512da8;
+  color: #fff;
+  font-size: 12px;
+  padding: 10px 45px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.modal-content button:hover {
+  background-color: #0056b3; /* Darker shade on hover */
+}

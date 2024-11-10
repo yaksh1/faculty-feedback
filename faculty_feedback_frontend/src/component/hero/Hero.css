@@ -1,0 +1,202 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.home-page-container {
+    padding:20px;
+  height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: start;
+  /* background-color: #faf9f6; */
+  flex-direction: column;
+}
+
+.search-bar-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto 20px; /* Center align and add bottom margin */
+}
+
+.search-bar {
+  width: 100%;
+  padding: 12px 20px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  font-size: 16px;
+}
+
+.faculty-grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  width: 100%;
+  max-width: 1200px;
+}
+
+.faculty-card {
+  padding: 15px;
+   border-radius: 20px !important;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+
+.faculty-card:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.faculty-card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+  justify-content: center !important; /* Centers the button vertically */
+}
+
+
+.faculty-image-container {
+  width: 100%; /* Full width of the card */
+  height: 200px; /* Adjust height as needed for a balanced look */
+  border-radius: 15px; /* Rounded corners matching card border */
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+.faculty-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures image fills the container without distortion */
+  border-radius: 15px;
+}
+
+.faculty-info {
+    flex-grow: 1; /* Allows the text to take up any available space */
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.faculty-name {
+  font-size: 18px;
+  font-weight: 600;
+  color: #512da8;
+}
+
+.faculty-position {
+  font-size: 14px;
+  font-weight: 400;
+  color: #666;
+  margin: 5px 0;
+}
+
+.faculty-review-button {
+   background-color: #512da8;
+  color: #fff;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: auto; /* Pushes the button to the bottom of the content */
+}
+
+.faculty-review-button:hover {
+  background-color: #5c6bc0;
+}
+
+.review-button-around{
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Updated CSS */
+.faculty-card {
+  padding: 20px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  overflow: hidden; /* Ensures rounded borders work with image */
+}
+
+.faculty-card:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px); /* Lift effect on hover */
+}
+
+.faculty-image-container {
+  width: 100%;
+  height: 200px; /* Fixed height for uniformity */
+  overflow: hidden; /* Keeps image within bounds */
+  border-radius: 15px; /* Matches card's border */
+  margin-bottom: 15px;
+}
+
+.faculty-image {
+  width: 100%;
+  height: 100%; /* Cover the entire container */
+  object-fit: cover; /* Maintain aspect ratio */
+}
+
+.faculty-info {
+  color: #333;
+  text-align: center; /* Center text */
+}
+
+.faculty-name {
+  font-size: 20px; /* Increased size for prominence */
+  font-weight: 700; /* Bold */
+  color: #512da8; /* Color from previous theme */
+  margin: 10px 0; /* Spacing for clarity */
+}
+
+.faculty-position {
+  font-size: 14px;
+  font-weight: 400;
+  color: #666;
+  margin: 5px 0;
+}
+
+.faculty-review-button {
+  background-color: #512da8; /* Consistent with the theme */
+  color: #fff;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 25px; /* Rounded edges for button */
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.faculty-review-button:hover {
+  background-color: #5c6bc0; /* Slightly lighter on hover */
+  transform: scale(1.05); /* Slight grow effect */
+}

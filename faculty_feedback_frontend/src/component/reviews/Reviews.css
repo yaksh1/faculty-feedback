@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.reviews-container {
+  padding: 20px !important;
+  height: calc(100vh - 40px); /* Adjust height to allow for scrolling */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.faculty-image-col {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.faculty-image {
+  width: 100% !important;
+  max-width: 300px !important; /* Control the maximum size of the image */
+  border-radius: 15px !important; /* Rounded corners for the image */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2) !important; /* Shadow for a subtle effect */
+}
+
+.form-and-reviews-col {
+  padding: 20px !important;
+}
+
+.review-form {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.review-textarea {
+  height: 100px !important; /* Set a height for the textarea */
+  resize: none !important; /* Disable resizing */
+  border-radius: 10px !important;
+  border: 1px solid #ccc !important;
+  padding: 10px !important;
+  margin-bottom: 10px !important;
+  font-size: 16px !important;
+}
+
+.submit-button {
+  background-color: #007bff !important;
+  color: white !important;
+  border: none !important;
+  padding: 10px !important;
+  border-radius: 5px !important;
+  cursor: pointer !important;
+  transition: background-color 0.3s !important;
+}
+
+.submit-button:hover {
+  background-color: #0056b3 !important;
+}
+
+.reviews-list {
+  margin-top: 20px !important;
+  max-height: 300px !important; /* Limit height for overflow */
+  overflow-y: auto; /* Enable scrolling for reviews list */
+}
+
+.single-review {
+  margin-bottom: 15px !important;
+  font-size: 16px !important;
+}
