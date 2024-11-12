@@ -27,7 +27,7 @@ const Reviews = ({ getMovieData, faculty, reviews, setReviews }) => {
      const response = await fetch(
   `http://localhost:8080/user/reviews?reviewBody=${encodeURIComponent(
     rev
-  )}&facultyId=${encodeURIComponent(facultyId)}`,
+  )}&facultyId=${encodeURIComponent(facultyId)}&email=${encodeURIComponent(localStorage.getItem('email'))}`,
   {
     method: 'POST',
     headers: {
