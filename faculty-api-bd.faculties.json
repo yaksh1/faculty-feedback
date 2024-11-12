@@ -1,0 +1,1000 @@
+[{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf536"
+  },
+  "facultyId": "2Io07bY",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Aditi_Chakravorty.webp",
+  "name": "DR. ADITI MUKHERJEE CHAKRAVORTY",
+  "position": "Assistant Professor of Law",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf541"
+  },
+  "facultyId": "Mxrf0s5",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Shilpa-Chapadgaonkar.webp",
+  "name": "DR. SHILPA SAMIR CHAPADGAONKAR",
+  "position": "Associate Professor and Program Director\nDepartment of Biosciences and Technology\nPh.D. in-Biochemical Engineering and Biotechnology\nIIT Delhi",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf532"
+  },
+  "facultyId": "RAB0FXY",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Anu.webp",
+  "name": "DR. ANU NAIR",
+  "position": "Program Coordinator\nDepartment of Media and Communication",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf53d"
+  },
+  "facultyId": "deLt58hpoX",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Mithila.webp",
+  "name": "MS. MITHILA SHELAR",
+  "position": "Assistant Professor of Law",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf553"
+  },
+  "facultyId": "2qYZadO",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Deobrat%20Singh.webp",
+  "name": "DR. DEOBRAT SINGH",
+  "position": "Assistant Professor\nDepartment of Physics\nPh.D. in-High Energy Physics\nDelhi University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf563"
+  },
+  "facultyId": "Ml60lxyla6",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Shounak%20Rushikesh%20Sugave.webp",
+  "name": "DR. SHOUNAK RUSHIKESH SUGAVE",
+  "position": "Associate Professor\nDepartment of Computer Engineering and Technology\nPh.D. in-Computer Science & Engineering\nJ.N.T.U Anantapur",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf546"
+  },
+  "facultyId": "SGVkCrL",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Yuvraj%20Nanasaheb%20Patil.webp",
+  "name": "DR. YUVRAJ NANASAHEB PATIL",
+  "position": "Associate Professor\nDepartment of Pharmaceutical Sciences",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf535"
+  },
+  "facultyId": "8SOc9O8",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/akshay-ugale.webp",
+  "name": "MR. AKSHAY UGALE",
+  "position": "Assistant Professor of Economics",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf54c"
+  },
+  "facultyId": "e6564gB",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Sanjay%20Narayan%20Havaldar.webp",
+  "name": "DR. SANJAY NARAYAN HAVALDAR",
+  "position": "Professor\nDepartment of Mechanical Engineering\nPh.D. in-Fluid Mechanics (Grade:3.2/4)\nSouth Dakota State University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf54e"
+  },
+  "facultyId": "HE502y0",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Ganesh%20Suresh%20Jadhav.webp",
+  "name": "DR. GANESH SURESH JADHAV",
+  "position": "Assistant Professor\nDepartment of Design\nPh.D. in-Design\nIIT, Guwahati",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf568"
+  },
+  "facultyId": "WZZQB1J",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Vaishali%20Namdevrao%20Choudhari.webp",
+  "name": "DR. VAISHALI NAMDEVRAO CHOUDHARI",
+  "position": "Assistant Professor\nDepartment of Liberal Arts\nPh.D. in-Psychology\nRTM Nagpur University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf569"
+  },
+  "facultyId": "mKRuNmlrjz",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Nutan%20Jayant%20Pathak.webp",
+  "name": "DR. NUTAN JAYANT PATHAK",
+  "position": "Assistant Professor\nDepartment of Civil Engineering\nPh.D. in-Civil Engineering\nSavitribai Phule Pune University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf56a"
+  },
+  "facultyId": "QxOzGFyt5u",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Mahesh%20Maganlal%20Makwana.webp",
+  "name": "DR. MAHESH MAGANLAL MAKWANA",
+  "position": "Assistant Professor\nDepartment of Civil Engineering\nPh.D. in-Civil Engineering\nSavitribai Phule Pune University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf54b"
+  },
+  "facultyId": "tLC0KQojC9",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/John%20Milton%20Bryden.webp",
+  "name": "DR. JOHN MILTON BRYDEN",
+  "position": "Professor Emeritus\nDepartment of Mathematics and Statistics\nPh.D. in-Mathematcs\nThe University of Western Ontario, Canada",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf543"
+  },
+  "facultyId": "5V5W4x3",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Shivani%20Gupta.webp",
+  "name": "DR. SHIVANI GUPTA",
+  "position": "Assistant Professor\nDepartment of Mechanical Engineering\nPh.D. in-Mechanical Engg.\nIIT Roorkee",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf551"
+  },
+  "facultyId": "XjhVD28",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/645cdcce7b3a81683807438.jpg",
+  "name": "DR. V LENIN KUMAR",
+  "position": "Assistant Professor and Program Director\nPh.D. in-International Relation\nJawaharlal Nehru University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf533"
+  },
+  "facultyId": "LVo25rX",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/dean-ROSL-1.webp",
+  "name": "PROF. DR. EASWAR KRISHNA IYER",
+  "position": "Dean",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf540"
+  },
+  "facultyId": "JU8tqSP",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Mandar%20Madhukar%20Lele.webp",
+  "name": "DR. MANDAR MADHUKAR LELE",
+  "position": "Professor\nDepartment of Mechanical Engineering\nPh.D. in-Mechanical Engg.\nIIT Bombay",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf554"
+  },
+  "facultyId": "Q3UdR06",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Dhanashri%20Narayan%20Wategaonkar.webp",
+  "name": "DR. DHANASHRI NARAYAN WATEGAONKAR",
+  "position": "Assistant Professor\nDepartment of Computer Engineering and Technology\nPh.D. in-Computer Science and Engineering\nVellore Institute of Technology",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf556"
+  },
+  "facultyId": "u6N460moed",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Sumedha%20Dhananjay%20Sirsikar.webp",
+  "name": "DR. SUMEDHA DHANANJAY SIRSIKAR",
+  "position": "Associate Professor\nDepartment of Computer Engineering and Technology\nPh.D. in-Computer Science and Engineering\nSant Gadge Baba Amravati University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf55e"
+  },
+  "facultyId": "s6EV1BoV7R",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Bharti%20Asheesh%20Dixit.webp",
+  "name": "DR. BHARATI ASHEESH DIXIT",
+  "position": "Associate Professor & Associate HoS\nDepartment of Computer Engineering and Technology\nPh.D. in-Electronics and Telecommunication\nSavitribai Phule Pune University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf567"
+  },
+  "facultyId": "kBDG5F0",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Neeraj%20Mahindroo.webp",
+  "name": "DR. NEERAJ MAHINDROO",
+  "position": "Dean & Professor\nDepartment of Pharmaceutical Sciences",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf537"
+  },
+  "facultyId": "UFuHm4umDV",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Abin.webp",
+  "name": "MR. ABIN P. BIJU",
+  "position": "Assistant Professor of English",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf53c"
+  },
+  "facultyId": "W17J2i0",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Vikas%20%281%29.webp",
+  "name": "MR. VIKAS WAGHMARE",
+  "position": "Assistant Professor of Sociology and Political Science",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf547"
+  },
+  "facultyId": "8004u1G",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Prasad%20Vivek%20Joglekar.webp",
+  "name": "DR. PRASAD VIVEK JOGLEKAR",
+  "position": "Assistant Professor\nDepartment of Physics\nPh.D. in-Physics\nUniversity of Texas Arlington, US",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf550"
+  },
+  "facultyId": "A4wbh19",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Mithila%20Arvind%20Biniwale.webp",
+  "name": "DR. MITHILA ARVIND BINIWALE",
+  "position": "Program Coordinator\nDepartment of Media and Communication\nPh.D. in-Documentary Film in India\nJawaharlal Nehru University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf55f"
+  },
+  "facultyId": "W89359uyW7",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Aditi%20Shantanu%20Jahagirdar.webp",
+  "name": "DR. ADITI SHANTANU JAHAGIRDAR",
+  "position": "Assistant Professor\nDepartment of Computer Engineering and Technology\nPh.D. in-Electronics and Telecommunication Engineering\nSavitribai Phule Pune University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf52f"
+  },
+  "facultyId": "Q2Tq3fB",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Nisha.webp",
+  "name": "DR. NISHA SOORAJ",
+  "position": "Assistant Professor\nDepartment of Media and Communication",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf534"
+  },
+  "facultyId": "W7M24HR",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Neha_Agashe.webp",
+  "name": "DR. NEHA AGASHE",
+  "position": "Assistant Professor of Political Science",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf544"
+  },
+  "facultyId": "15aLhZsi5K",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Sarita%20Rajesh%20Zele.webp",
+  "name": "DR. SARITA RAJESH ZELE",
+  "position": "Department of Materials Science Engineering\nPh.D. in-Chemical Engineering\nUniversity of Pittsburgh, USA",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf557"
+  },
+  "facultyId": "6pX1tQwi4n",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Nitin%20Namdeo%20Pise.webp",
+  "name": "DR. NITIN NAMDEO PISE",
+  "position": "Professor\nDepartment of Computer Engineering and Technology\nPh.D. in-Computer Science and Engineering\nShivaji University, Kolhapur",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf558"
+  },
+  "facultyId": "1Ozb17Y",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Mangesh%20Vilas%20Bedekar.webp",
+  "name": "DR. MANGESH VILAS BEDEKAR",
+  "position": "Professor & Dean\nDepartment of Computer Engineering and Technology\nPh.D. in-Computer Science and Engineering\nBITS, Pilani",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf55c"
+  },
+  "facultyId": "Ix29l9N",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Vivek%20Patel.webp",
+  "name": "DR. VIVEK PATEL",
+  "position": "Assistant Professor\nDepartment of Mechanical Engineering\nPh.D. in-Mechanical-Design\nVisvesvaraya National Institute of Technology, Nagpur, Maharashtra",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf545"
+  },
+  "facultyId": "Xw04J22",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Mukesh%20Kumar%20Pal.webp",
+  "name": "DR. MUKESH KUMAR PAL",
+  "position": "Assistant Professor\nDepartment of Mathematics and Statistics\nPh.D. in-Applied Mathematics\nIIT (Indian School of Mines) Dhanbad",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf55d"
+  },
+  "facultyId": "1rPFLZM",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Baidehish-Sahoo.webp",
+  "name": "DR. BAIDEHISH SAHOO",
+  "position": "Assistant Professor\nDepartment of Mechanical Engineering\nPh.D. in-Mechanical Engg.\nIIT Kharagpur",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf56b"
+  },
+  "facultyId": "IjlVMh9",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Sumant%20Nivarutti%20Shinde.webp",
+  "name": "DR. SUMANT NIVARUTTI SHINDE",
+  "position": "Assistant Professor\nDepartment of Civil Engineering\nPh.D. in-Civil Engineering\nSavitribai Phule Pune University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf56d"
+  },
+  "facultyId": "gG8z7u1",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Aparna%20Sameer%20Dixit.webp",
+  "name": "DR. APARNA SAMEER DIXIT",
+  "position": "Associate Professor\nDepartment of Business\nPh.D. in-Human Resource Management\nSavitribai Phule Pune University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf539"
+  },
+  "facultyId": "bZ777ZJ",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Rushil.webp",
+  "name": "MR. RUSHIL CHANDRA",
+  "position": "Assistant Professor of Law",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf538"
+  },
+  "facultyId": "lRchUo5",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Shubhi.webp",
+  "name": "MS. SHUBHI TRIVEDI",
+  "position": "Assistant Professor of Law",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf555"
+  },
+  "facultyId": "Kf337N6",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Rashmi%20Suhas%20Phalnikar.webp",
+  "name": "DR. RASHMI SUHAS PHALNIKAR",
+  "position": "Associate Professor\nDepartment of Computer Engineering and Technology\nPh.D. in-Computer Science and Engineering\nSV NIT Surat",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf564"
+  },
+  "facultyId": "4D9oY7V",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Yogesh%20Raghunath%20Kulkarni.webp",
+  "name": "DR. YOGESH RAGHUNATH KULKARNI",
+  "position": "Assistant Professor\nDepartment of Computer Engineering and Technology\nPh.D. in-Computer Science & Engineering\nVel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf56c"
+  },
+  "facultyId": "62sCoIO",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Bharat%20Sambhu%20Chaudhari.webp",
+  "name": "DR. BHARAT SAMBHU CHAUDHARI",
+  "position": "Sr. Professor (HAG)\nDepartment of Electrical and Electronics Engineering\nPh.D. in-Engineering\nJadavpur University, Kolkata, WB",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf531"
+  },
+  "facultyId": "Sj9lL5v74X",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Aquil-Ahmad-Khan.webp",
+  "name": "DR. AQUIL AHMAD KHAN",
+  "position": "Assistant Professor\nDepartment of Media and Communication",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf530"
+  },
+  "facultyId": "10WOZ6z84g",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Shankar-Mahadevan.webp",
+  "name": "DR. SHANKAR MAHADEVAN",
+  "position": "Associate Professor\nDepartment of Media and Communication",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf54f"
+  },
+  "facultyId": "DqnzTSq360",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Rupali%20Gupta.webp",
+  "name": "DR. RUPALI GUPTA",
+  "position": "Assistant Professor\nDepartment of Business\nPh.D. in-Finance\nBHU",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf55b"
+  },
+  "facultyId": "fTxan91",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Mitulkumar%20Thakorbhai%20Solanki.webp",
+  "name": "DR. MITULKUMAR THAKORBHAI SOLANKI",
+  "position": "Assistant Professor\nDepartment of Mechanical Engineering\nPh.D. in-Mechanical Engineering\nSardar Vallabhai National Institute of Technology, Surat",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf53b"
+  },
+  "facultyId": "sekGO7c51y",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Devam-Thapa.webp",
+  "name": "MR. DEVAM THAPA",
+  "position": "Assistant Professor\nDepartment of Media and Communication",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf53e"
+  },
+  "facultyId": "U7QV1TW",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Nithya%20N%20Kutty.webp",
+  "name": "DR. NITHYA N KUTTY",
+  "position": "Assistant Professor\nDepartment of Biosciences and Technology\nPh.D. in-Agricultural biotechnology\nIIT Kharagpur",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf552"
+  },
+  "facultyId": "P3l1zvK",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Dinesh%20Balkrishna%20Khisti.webp",
+  "name": "DR. DINESH BALKRISHNA KHISTI",
+  "position": "Associate Professor\nDepartment of Business\nPh.D. in-Management\nSymbiosis International University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf54d"
+  },
+  "facultyId": "4bk938E",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Sai%20Prasad%20Ojha.webp",
+  "name": "DR. SAI PRASAD OJHA",
+  "position": "Assistant Professor\nDepartment of Design\nPh.D. in-Digital Capture and Transfer of Tacit Knowledge Embedded in Craft Objects\nIIT, Guwahati",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf562"
+  },
+  "facultyId": "68kiupxYQW",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Kishor%20Rambhau%20Kolhe.webp",
+  "name": "DR. KISHOR RAMBHAU KOLHE",
+  "position": "Associate Professor\nDepartment of Computer Engineering and Technology\nPh.D. in-Computer Engineering\nhri J.J.T. University, Jhunjhunu Rajasthan",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf53a"
+  },
+  "facultyId": "MJOzKSR",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Shanu-Gupta.webp",
+  "name": "DR. SHANU GUPTA",
+  "position": "Assistant Professor\nDepartment of Media and Communication",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf53f"
+  },
+  "facultyId": "0R5j254",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Siddhivinayak%20Arvind%20Kulkarni.webp",
+  "name": "DR. SIDDHIVINAYAK ARVIND KULKARNI",
+  "position": "Professor\nDepartment of Computer Engineering and Technology\nPh.D. in-Information Technology\nGriffith University, Australia",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf542"
+  },
+  "facultyId": "Y3RIuMhT4O",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Sudhirkumar%20A.%20Shinde.webp",
+  "name": "DR. SUDHIRKUMAR A. SHINDE",
+  "position": "Associate Professor\nPh.D. in-Chemical Science and Chemical Biology\nTechnical University Dortmund (Germany)",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf549"
+  },
+  "facultyId": "oyy1vE8",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Arunabh%20Pandey.webp",
+  "name": "DR. ARUNABH PANDEY",
+  "position": "Assistant Professor\nDepartment of Civil Engineering\nPh.D. in-Civil - Transportation\nIIT, Varanasi",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf560"
+  },
+  "facultyId": "0Kxe40N",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Avadhoot%20Shivaji%20Bhosale.webp",
+  "name": "DR. AVADHOOT SHIVAJI BHOSALE",
+  "position": "Assistant Professor\nDepartment of Civil Engineering\nPh.D. in-Civil Engineering (Structural)\nNIT, Rourkela",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf561"
+  },
+  "facultyId": "cVDt3rzEP7",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Gopinath%20T.webp",
+  "name": "DR. GOPINATH T",
+  "position": "Assistant Professor\nDepartment of Mechanical Engineering\nPh.D. in-Metallurgy\nIndian Institute of Engineering Science & Technology, Shibpur",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf565"
+  },
+  "facultyId": "7L2MZ9V",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Darshan%20Gopalrao%20Gaidhankar.webp",
+  "name": "DR. DARSHAN GOPALRAO GAIDHANKAR",
+  "position": "Associate Professor\nDepartment of Civil Engineering\nPh.D. in-Civil Engineering\nSavitribai Phule Pune University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf566"
+  },
+  "facultyId": "5H8E5Il5XI",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Mahesh%20Balwant%20Sonawane.webp",
+  "name": "DR. MAHESH BALWANT SONAWANE",
+  "position": "Assistant Professor\nDepartment of Civil Engineering\nPh.D. in-Civil Engineering\nVJTI, Mumbai",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf548"
+  },
+  "facultyId": "BlQ3T1kG8c",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Krishna%20Keshavrao%20Warhade.webp",
+  "name": "DR. KRISHNA KESHAVRAO WARHADE",
+  "position": "Professor and Director Doctoral Programme\nDepartment of Electrical and Electronics Engineering\nPh.D. in-Electrical Engg. (Communications and Signal Processing)\nIIT Bombay",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf54a"
+  },
+  "facultyId": "6sM52H4",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Pradnya%20Siddhivinayak%20Kulkarni.webp",
+  "name": "DR. PRADNYA SIDDHIVINAYAK KULKARNI",
+  "position": "Associate Professor\nDepartment of Computer Engineering and Technology\nPh.D. in-Information Technology - Medical Image Processing\nFederation University, Australia",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf559"
+  },
+  "facultyId": "xJmI615",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Makrand%20Mahadev%20Wagale.webp",
+  "name": "DR. MAKRAND MAHADEV WAGALE",
+  "position": "Assistant Professor\nDepartment of Civil Engineering\nPh.D. in-Transportation Engineering\nBITS, Pilani",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf55a"
+  },
+  "facultyId": "gt524bR",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Deependra%20Sharma.webp",
+  "name": "DR. DEEPENDRA SHARMA",
+  "position": "Professor and Dean School of Business\nWPU School of Business\nPh.D. in-Management\nGurukul Kangri Vishwavidyalaya, Haridwar, India",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf56e"
+  },
+  "facultyId": "KUNM2YA",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Meenal%20Kaustubh%20Pendse.webp",
+  "name": "DR. MEENAL KAUSTUBH PENDSE",
+  "position": "Associate Professor\nDepartment of Business\nPh.D. in-Consumer Behaviour\nRTM Nagpur University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf573"
+  },
+  "facultyId": "6K4IF27",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Balaji%20Madhavrao%20Patil.webp",
+  "name": "DR. BALAJI MADHAVRAO PATIL",
+  "position": "Program Director\nDepartment of Computer Engineering and Technology\nPh.D. in-Computer Science & Engineering\nUttarakhand Technical University, Dehradun",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf584"
+  },
+  "facultyId": "q7Z76LW",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Sunil%20Machindra%20Adhav.webp",
+  "name": "DR. SUNIL MACHINDRA ADHAV",
+  "position": "Associate Professor\nDepartment of Business\nPh.D. in-Financial Management\nNagpur University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf56f"
+  },
+  "facultyId": "E25eY42",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Sushil%20Ganpatrao%20Nirbhavane.webp",
+  "name": "DR. SUSHIL GANPATRAO NIRBHAVANE",
+  "position": "Assistant Professor\nDepartment of Business\nPh.D. in-Financial Management( Completed in @2.5 years)\nRTM Nagpur University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf571"
+  },
+  "facultyId": "KnmiidV",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Pournima%20Nilesh%20Inamdar.webp",
+  "name": "DR. POURNIMA NILESH INAMDAR",
+  "position": "Associate Dean(External Relations) and Associate Professor of Law",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf580"
+  },
+  "facultyId": "7vy4Y0yiH9",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/645b8647ceadb1683719751.jpg",
+  "name": "DR. VANISREE TRIPPAYYA RAMANATHAN",
+  "position": "Associate Professor\nDepartment of Public Health",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf588"
+  },
+  "facultyId": "y10ajp4",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Vinita%20Vinod%20Ahire.webp",
+  "name": "DR. VINITA VINOD AHIRE",
+  "position": "Assistant Professor\nDepartment of Business\nPh.D. in-Finance\nNagpur University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf57b"
+  },
+  "facultyId": "7cR11WeE8A",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Jivan%20Pandharinath%20Biradar.webp",
+  "name": "DR. JIVAN PANDHARINATH BIRADAR",
+  "position": "Assistant Professor\nDepartment of Commerce & Accounting\nPh.D. in-Economics\nSavitribai Phule Pune University, Pune",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf591"
+  },
+  "facultyId": "cT3d0cF",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Anil%20Satishrao%20Hiwale.webp",
+  "name": "DR. ANIL SATISHRAO HIWALE",
+  "position": "Professor\nDepartment of Electrical and Electronics Engineering\nPh.D. in-Electronics engg.\nSant Gadge Baba Amravati University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf570"
+  },
+  "facultyId": "x7T4trzUQS",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Rohini%20Suresh%20Sawalkar.webp",
+  "name": "DR. ROHINI SURESH SAWALKAR",
+  "position": "Associate Professor\nDepartment of Business\nPh.D. in-Financial Management\nSPPU",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf58b"
+  },
+  "facultyId": "8hhgC6f5cj",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Rajesh%20Prannath%20Jawajala.webp",
+  "name": "DR. RAJESH PRANNATH JAWAJALA",
+  "position": "Associate Professor\nDepartment of Business\nPh.D. in-Marketing Management\nSPPU",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf58f"
+  },
+  "facultyId": "DC0FZED",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Saket%20Ravindra%20Yeolekar.webp",
+  "name": "DR. SAKET RAVINDRA YEOLEKAR",
+  "position": "Associate Professor and Program Coordinator(E & CE)\nDepartment of Electrical and Electronics Engineering\nPh.D. in-Electrical (induction motor)\nRashtrasant Tukdoji Maharaj Nagpur University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf576"
+  },
+  "facultyId": "r0VxMT0",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Ganesh%20Shivaji%20Ingle.webp",
+  "name": "DR. GANESH SHIVAJI INGLE",
+  "position": "Associate Professor\nDepartment of Civil Engineering\nPh.D. in-Geotechnical Engineering\nCOEP, Pune",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf586"
+  },
+  "facultyId": "OMyzr9R",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Abhishek%20Bratindranath%20Mukherjee.webp",
+  "name": "DR. ABHISHEK BRATINDRANATH MUKHERJEE",
+  "position": "Assistant Professor\nDepartment of Business\nPh.D. in-Commerce, Business Aministration\nSavitribai Phule Pune University, Pune, Maharashtra",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf585"
+  },
+  "facultyId": "vR8X90fdcp",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Neelam%20Vishal%20Raut.webp",
+  "name": "DR. NEELAM VISHAL RAUT",
+  "position": "Assistant Professor\nDepartment of Business\nPh.D. in-Marketing Management\nSPPU (Pune University)",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf578"
+  },
+  "facultyId": "2066efchN8",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Yashpal-Netragaonkar.webp",
+  "name": "DR. YASHPAL DASHRATH NETRAGAONKAR",
+  "position": "Associate Professor\nPh.D. in-Education\nUniversity of Pune",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf58e"
+  },
+  "facultyId": "KzV2GML",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Vilas%20Sahebrao%20Kanthale.webp",
+  "name": "DR. VILAS SAHEBRAO KANTHALE",
+  "position": "Associate Professor\nDepartment of Mechanical Engineering\nPh.D. in-Mechanical Engg.\nGovernment College of Engineering, (COEP), Pune",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf57e"
+  },
+  "facultyId": "yQY8ah6",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Abhijeet%20Ramkrishna%20Dhere.webp",
+  "name": "DR. ABHIJEET RAMKRISHNA DHERE",
+  "position": "Program Director and Assistant Professor of Law",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf572"
+  },
+  "facultyId": "95N1w6y0x9",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Aparna%20Dattatraya%20Pathak.webp",
+  "name": "DR. APARNA DATTATRAYA PATHAK",
+  "position": "Assistant Professor\nDepartment of Liberal Arts\nPh.D. in-Business Administration & Business Management\nNagpur University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf574"
+  },
+  "facultyId": "FA5Z353",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Shantini%20Aniruddha%20Bokil.webp",
+  "name": "DR. SHANTINI ANIRUDDHA BOKIL",
+  "position": "Professor\nDepartment of Civil Engineering\nPh.D. in-Civil Engineering (Waste Treatment)\nSant Gadge Baba Amravati University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf57c"
+  },
+  "facultyId": "4wxG49D",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Vikas-Pathe.webp",
+  "name": "DR. VIKAS PATHE",
+  "position": "Program Director\nDepartment of Media and Communication\nPh.D from Central University of Gujarat Gandhinagar",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf581"
+  },
+  "facultyId": "8RPo5s2",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Pratibha%20Ajit%20Upadhye.webp",
+  "name": "DR. PRATIBHA AJIT UPADHYE",
+  "position": "Assistant Professor\nDepartment of Business\nPh.D. in-Banking anf Finance\nVikram University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf579"
+  },
+  "facultyId": "ydS6heR",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Anjusha%20Jagdeorao%20Gawande.webp",
+  "name": "DR. ANJUSHA JAGDEORAO GAWANDE",
+  "position": "Assistant Professor\nDepartment of Education\nPh.D. in-Teacher Education\nPune University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf58c"
+  },
+  "facultyId": "5MSOIpj2nI",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Mrudula%20Sanjay%20Kulkarni.webp",
+  "name": "DR. MRUDULA SANJAY KULKARNI",
+  "position": "Professor\nDepartment of Civil Engineering\nPh.D. in-Civil Engineering\nSavitribai Phule Pune University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf592"
+  },
+  "facultyId": "D8yNaV9",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Vinaya%20Vijay%20Gohokar.webp",
+  "name": "DR. VINAYA VIJAY GOHOKAR",
+  "position": "Professor\nDepartment of Electrical and Electronics Engineering\nPh.D. in-Electronics Engg. (Rate Distortion Optimizaion For Video Compression)\nSant Gadge Baba Amravati University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf583"
+  },
+  "facultyId": "LLSq78n9N9",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Swapnil%20Narayan%20Undale.webp",
+  "name": "DR. SWAPNIL NARAYAN UNDALE",
+  "position": "Associate Professor\nDepartment of Business\nPh.D. in-Business Management & Business Administration\nRTM Nagpur University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf57f"
+  },
+  "facultyId": "0RpcNf8",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Sandhya%20Sreekumar%20Pillai.webp",
+  "name": "DR. SANDHYA SREEKUMAR PILLAI",
+  "position": "Assistant Professor\nDepartment of Economics & Public Policy\nPh.D. in-Public Administration\nPandit Deendayal Petroleum University (PDPU)",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf577"
+  },
+  "facultyId": "JJqrn0lphZ",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Vandana%20Ramrao%20Kenjale.webp",
+  "name": "DR. VANDANA RAMRAO KENJALE",
+  "position": "Assistant Professor\nWPU School of Education\nPh.D. in-Educational Psychology\nPune University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf57a"
+  },
+  "facultyId": "KUXEO27",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Anjali%20Ajit%20Sane.webp",
+  "name": "DR. ANJALI AJIT SANE",
+  "position": "Professor & Dean\nWPU School of Economics and Commerce\nPh.D. in-Managerial Economics",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf582"
+  },
+  "facultyId": "J5Ny9G7",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Rajashri%20Amit%20Kadam.webp",
+  "name": "DR. RAJASHRI AMIT KADAM",
+  "position": "Associate Professor and Associate Dean - Academics\nDepartment of Business\nPh.D. in-Marketing\nSPPU",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf590"
+  },
+  "facultyId": "jx91LI2",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Netra%20Manoj%20Lokhande.webp",
+  "name": "DR. NETRA MANOJ LOKHANDE",
+  "position": "Associate Professor\nDepartment of Electrical and Electronics Engineering\nPh.D. in-Electronics (Image Processing)\nJagdishprasad Jhabarmal Tibrewala University, Jhunjhunu, Rajasthan",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf57d"
+  },
+  "facultyId": "K0HRDoR",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/645cdc03a46b91683807235.jpg",
+  "name": "DR. GANESH PRABHAKAR MANTRI",
+  "position": "Research Associate\nPh.D. in-Political Science\nNIMS University, Jaipur",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf589"
+  },
+  "facultyId": "3lOppg5",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Jaideep%20Gulabrao%20Jadhav.webp",
+  "name": "DR. JAIDEEP GULABRAO JADHAV",
+  "position": "Professor\nDepartment of Business\nPh.D. in-Finance\nSwami Ramanand Teerth Marathwada University Nanded",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf587"
+  },
+  "facultyId": "tBXklrzv1g",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Girish%20Shamraoji%20Mude.webp",
+  "name": "DR. GIRISH SHAMRAOJI MUDE",
+  "position": "Associate Professor and Program Director\nDepartment of Business\nPh.D. in-Business Managagement\nRTM Nagpur University, Nagpur, India.",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf58d"
+  },
+  "facultyId": "ey74DpX",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Nivedita%20Gunesh%20Gogate.webp",
+  "name": "DR. NIVEDITA GUNESH GOGATE",
+  "position": "Associate Professor\nDepartment of Civil Engineering\nPh.D. in-Environmental Engineering\nSavitribai Phule Pune University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf575"
+  },
+  "facultyId": "g8mxTW5",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/Sudhir%20Pandurang%20Patil.webp",
+  "name": "DR. SUDHIR PANDURANG PATIL",
+  "position": "Professor\nDepartment of Civil Engineering\nPh.D. in-Structural Engineering\nMumbai University",
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "671b6b95a634c9018e2cf58a"
+  },
+  "facultyId": "8Z4qP1d5P4",
+  "image": "https://mitwpu.edu.in/uploads/faculty_images/DEEPALI%20DHANANJAY%20SHAHANE.webp",
+  "name": "DR. DEEPALI DHANANJAY SHAHANE",
+  "position": "Associate Professor\nDepartment of Business\nPh.D. in-Management\nBVDU",
+  "reviewIds": []
+}]
