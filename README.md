@@ -44,6 +44,9 @@ This project consists of two applications: a Spring Boot backend API (`spring-ba
 The backend is a Spring Boot application that exposes a REST API to manage user authentication, faculty, and reviews. It is secured with JWT tokens, which are required to access restricted endpoints. Data is stored in MySQL for user information and MongoDB for faculty and review data.
 
 #### API Endpoints
+
+**Important**: All API endpoints can be accessed here after running the backend - http://localhost:8080/swagger-ui/index.html#/. Make sure to put `/v3/api-docs` in explore search bar.
+
 base url -> `http://localhost:8080`
 - `/auth/register` - Register a new user
 - `/auth/login` - Get a JWT token after successful login
