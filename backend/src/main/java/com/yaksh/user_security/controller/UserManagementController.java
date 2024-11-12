@@ -49,30 +49,30 @@ public class UserManagementController {
         return ResponseEntity.ok(usersManagementService.resendVerification(email));
     }
 
-//    @GetMapping("/user/get-all-users")
-//    public ResponseEntity<ReqRes> getAllUsers(){
-//        return ResponseEntity.ok(usersManagementService.getAllUsers());
-//
-//    }
-//
-//    @GetMapping("/admin/get-users/{userId}")
-//    public ResponseEntity<ReqRes> getUSerByID(@PathVariable Integer userId){
-//        return ResponseEntity.ok(usersManagementService.getUsersById(userId));
-//
-//    }
-//
-//    @PutMapping("/admin/update/{userId}")
-//    public ResponseEntity<ReqRes> updateUser(@PathVariable Integer userId, @RequestBody OurUsers reqres){
-//        return ResponseEntity.ok(usersManagementService.updateUser(userId, reqres));
-//    }
-//
-//    @GetMapping("/adminuser/get-profile")
-//    public ResponseEntity<ReqRes> getMyProfile(){
-//        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-//        String email = authentication.getName();
-//        ReqRes response = usersManagementService.getMyInfo(email);
-//        return  ResponseEntity.status(response.getStatusCode()).body(response);
-//    }
+    @GetMapping("/user/get-all-users")
+    public ResponseEntity<ReqRes> getAllUsers(){
+        return ResponseEntity.ok(usersManagementService.getAllUsers());
+
+    }
+
+    @GetMapping("/admin/get-users/{userId}")
+    public ResponseEntity<ReqRes> getUSerByID(@PathVariable Integer userId){
+        return ResponseEntity.ok(usersManagementService.getUsersById(userId));
+
+    }
+
+    @PutMapping("/admin/update/{userId}")
+    public ResponseEntity<ReqRes> updateUser(@PathVariable Integer userId, @RequestBody OurUsers reqres){
+        return ResponseEntity.ok(usersManagementService.updateUser(userId, reqres));
+    }
+
+    @GetMapping("/adminuser/get-profile")
+    public ResponseEntity<ReqRes> getMyProfile(){
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        String email = authentication.getName();
+        ReqRes response = usersManagementService.getMyInfo(email);
+        return  ResponseEntity.status(response.getStatusCode()).body(response);
+    }
 
     @DeleteMapping("/admin/delete")
     public ResponseEntity<ReqRes> deleteUSer(@RequestParam String email){
