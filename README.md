@@ -89,7 +89,7 @@ Navigate to newly cretaed Folder
 cd faculty-feedback
 ```
 
-#### FRONTEND
+### FRONTEND
 
 navigate to react-frontend subfolder
 ```bash
@@ -107,7 +107,7 @@ npm start
 ```
 Navigate to http://localhost:3000
 
-#### BACKEND
+### BACKEND
 
 navigate to spring-backend subfolder
 ```bash
@@ -123,15 +123,17 @@ cd spring-backend
        - example:
 
          spring.data.mongodb.uri =  mongodb+srv://foobar:XXXXXXXXXXXXXX@foo-bar-cluster.1mybc.mongodb.net
-         
+         ```bash
            MONGO_CLUSTER=foo-bar-cluster.1mybc.mongodb.net
-
            MONGO_PASSWORD=XXXXXXXXXXXXXX
-
            MONGO_USER=foobar
-
            MONGO_DATABASE=foobar-database (from mongodb compass)
+	        ```
   - Run the Springboot Application
+    
+```bash
+./mvnw spring-boot:run
+```
 
 Backend runs on http://localhost:8080
 
