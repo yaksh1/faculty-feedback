@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.*;
 public class ReviewController {
     private final ReviewService reviewService;
     @PostMapping
-    public ResponseEntity<ResponseDTO> createReview(@RequestParam String reviewBody, @RequestParam String facultyId){
-        ResponseDTO responseDTO = reviewService.createReview(reviewBody,facultyId);
+    public ResponseEntity<ResponseDTO> createReview(@RequestParam String reviewBody, @RequestParam String facultyId, @RequestParam String email){
+        ResponseDTO responseDTO = reviewService.createReview(reviewBody,facultyId,email);
         if(responseDTO.getStatus()==200){
             return ResponseEntity.ok(responseDTO);
         }

@@ -28,6 +28,9 @@ public class GlobalExceptionHandler {
                 || e.getErrorCode()==ErrorCode.INVALID_OTP
                 || e.getErrorCode()==ErrorCode.USER_ALREADY_VERIFIED
                 || e.getErrorCode()==ErrorCode.ACCOUNT_NOT_VERIFIED
+                || e.getErrorCode()==ErrorCode.INAPPROPRIATE_REVIEW
+                || e.getErrorCode()==ErrorCode.REVIEW_TOO_SHORT
+                || e.getErrorCode() == ErrorCode.ACCOUNT_BANNED
 
         ) {
             errorDetails.setStatusCode(HttpStatus.BAD_REQUEST.value());

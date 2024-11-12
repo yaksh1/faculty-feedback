@@ -43,6 +43,11 @@ public class ValidationChecks {
         return false;
     }
 
+    public boolean isReviewLongEnough(String reviewText) {
+        // Split the review text by whitespace and count the words
+        String[] words = reviewText.trim().split("\\s+");
+        return words.length > 5;
+    }
 
 
 }

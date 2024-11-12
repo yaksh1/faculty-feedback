@@ -22,8 +22,10 @@ public class OurUsers implements UserDetails {
     private String email;
     private String password;
     private String role;
-
     private boolean enabled;
+    private int strikes;
+    private int bannedDays;
+    private LocalDateTime bannedTillDate;
     private String verificationCode;
     private LocalDateTime verificationExpiresAt;
 

@@ -61,8 +61,8 @@ const handleVerified = () => {
         if (isSignUp) {
           setShowVerification(true)
         } else {
+          localStorage.setItem('email',payload.email)
           localStorage.setItem('token', data.token)
-          console.log(data.token)
           setShowHomePage(true)
         }
       } else {
